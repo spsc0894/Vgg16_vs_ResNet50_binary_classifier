@@ -1,1 +1,1 @@
-# Vgg16_vs_ResNet50_binary_classifier
+# Vgg16 vs ResNet50 binary classifier comparision using fine tuning of pre-trained models
